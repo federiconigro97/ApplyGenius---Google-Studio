@@ -5,12 +5,12 @@ const items = [
   {
     icon: Languages,
     title: "Intelligent Translation",
-    desc: "We translate coding experience to AI language, mapping your dev skills to ML equivalents."
+    desc: "We translate coding experience to AI language, mapping your dev skills to AI equivalents."
   },
   {
     icon: Github,
-    title: "GitHub Repository Scanner",
-    desc: "The only GitHub repository scanner for resume building that finds ML-relevant libraries in your code."
+    title: "GitHub Scanner (Optional)",
+    desc: "The optional GitHub repository scanner finds AI-relevant libraries in your code to boost your profile."
   },
   {
     icon: Sliders,
@@ -20,7 +20,7 @@ const items = [
   {
     icon: Briefcase,
     title: "Portfolio Generation",
-    desc: "Turn private repos and side projects into a Data Scientist portfolio from GitHub analysis."
+    desc: "Turn private repos and side projects into an AI Engineer portfolio from GitHub analysis."
   },
   {
     icon: MessageSquareText,

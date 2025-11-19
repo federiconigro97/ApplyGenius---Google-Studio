@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
           </h1>
 
           <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-            The only tool specialized in the Backend to AI transition. Create a Machine Learning Engineer resume that translates your code into the experience recruiters are searching for.
+            The only tool specialized in the Backend to AI transition. Create an <span className="font-semibold text-slate-900">LLM/AI Engineer resume</span> that translates your code into the experience recruiters are searching for.
           </p>
 
           <p className="text-sm font-semibold text-slate-500 mb-6 flex items-center gap-2">
@@ -76,9 +76,9 @@ const Hero: React.FC = () => {
                 
                 <div className="mt-6 pt-6 border-t border-slate-100 flex justify-between items-center">
                    <div className="flex -space-x-2">
-                        <img className="w-8 h-8 rounded-full border-2 border-white" src="https://picsum.photos/100/100?random=1" alt="User" />
-                        <img className="w-8 h-8 rounded-full border-2 border-white" src="https://picsum.photos/100/100?random=2" alt="User" />
-                        <img className="w-8 h-8 rounded-full border-2 border-white" src="https://picsum.photos/100/100?random=3" alt="User" />
+                        <img className="w-8 h-8 rounded-full border-2 border-white object-cover" src="https://randomuser.me/api/portraits/men/32.jpg" alt="User" />
+                        <img className="w-8 h-8 rounded-full border-2 border-white object-cover" src="https://randomuser.me/api/portraits/women/44.jpg" alt="User" />
+                        <img className="w-8 h-8 rounded-full border-2 border-white object-cover" src="https://randomuser.me/api/portraits/men/86.jpg" alt="User" />
                    </div>
                    <div className="text-sm text-slate-500">
                        <span className="font-bold text-indigo-600">1.2k+</span> Developers Joined

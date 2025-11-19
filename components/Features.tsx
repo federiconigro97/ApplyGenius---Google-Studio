@@ -27,7 +27,7 @@ const Features: React.FC = () => {
                     <h4 className="text-sm font-bold text-indigo-600 uppercase tracking-wide mb-2">FEATURE 1</h4>
                     <h3 className="text-2xl font-bold text-slate-900 mb-4">System Architecture Description for Recruiters</h3>
                     <p className="text-lg text-slate-600 mb-6">
-                        Your backend scaling work is valid ML infrastructure experience. We help you write a system architecture description for recruiters that highlights your ability to deploy models at scale.
+                        Your backend scaling work is valid <strong>AI infrastructure</strong> experience. We help you write a system architecture description for recruiters that highlights your ability to deploy models at scale.
                     </p>
                     <a href="#" className="inline-flex items-center font-semibold text-indigo-600 hover:text-indigo-700">
                         Get started <ArrowRight className="ml-2 w-4 h-4" />

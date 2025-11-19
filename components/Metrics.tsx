@@ -23,7 +23,7 @@ const Metrics: React.FC = () => {
           </div>
           <div className="p-6 border-t md:border-t-0 md:border-l border-indigo-800">
             <div className="text-5xl font-extrabold text-white mb-2">15 min</div>
-            <p className="text-indigo-200 text-lg">From upload to Machine Learning Engineer resume</p>
+            <p className="text-indigo-200 text-lg">From upload to LLM/AI Engineer resume</p>
           </div>
         </div>
       </div>

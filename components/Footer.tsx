@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
               ApplyGenius<span className="text-indigo-600">.ai</span>
             </a>
             <p className="text-sm text-slate-500 leading-relaxed">
-              The only resume builder designed for the Machine Learning Engineer pivot.
+              The only resume builder designed for the LLM/AI Engineer pivot.
             </p>
           </div>
           

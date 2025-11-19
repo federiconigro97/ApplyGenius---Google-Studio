@@ -5,7 +5,7 @@ import { FAQItem } from '../types';
 const faqData: FAQItem[] = [
   {
     question: "How to list side projects on resume for AI roles?",
-    answer: "Our GitHub repository scanner for resume feature automatically identifies relevant side projects, analyzes the libraries used (like Pandas or Torch), and frames them as professional experience in your Machine Learning Engineer resume."
+    answer: "Our optional GitHub repository scanner automatically identifies relevant side projects, analyzes the libraries used (like Pandas or Torch), and frames them as professional experience in your LLM/AI Engineer resume."
   },
   {
     question: "I am a backend dev. Can I really make a Backend to AI transition?",
