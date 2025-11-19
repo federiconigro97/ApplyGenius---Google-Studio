@@ -1,0 +1,5 @@
+{
+  "name": "ApplyGenius.ai",
+  "description": "A specialized resume builder for backend developers transitioning to AI/ML roles, featuring GitHub scanning and ATS optimization.",
+  "requestFramePermissions": []
+}
